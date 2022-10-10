@@ -1,2 +1,1 @@
-Write a script that displays a confused smiley "(Ôo)'
-Write a script that prints “Hello, World”
+Display the content of the /etc/passwd file
